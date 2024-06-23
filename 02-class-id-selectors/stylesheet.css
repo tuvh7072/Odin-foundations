@@ -1,0 +1,20 @@
+.odd {
+        color: black;
+        background-color: lightcoral;
+        font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#nr2 {
+        color: blue;
+        font-size: 36px;
+}
+
+.style {
+        font-size: 24px;
+}
+
+#nr4 {
+        background-color: lightgreen;
+        font-size: 24px;
+        font-weight: bold;
+}
