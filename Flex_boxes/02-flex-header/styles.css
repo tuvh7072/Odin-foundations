@@ -1,0 +1,29 @@
+.header {
+        background-color: papayawhip;
+        display: flex;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+        padding: 8px;
+}
+
+ul {
+        list-style-type: none;
+        display: flex;
+        margin: 0px;
+        padding: 0px;
+        gap: 8px;
+        /* Adding this to the lists will enable gap between the list items */
+}
+
+a {
+        text-decoration: none;
+        background-color: white;
+        padding: 8px;
+}
+
+.logo {
+        color: orange;
+        font-size: 42px;
+        font-weight: bolder;
+}
